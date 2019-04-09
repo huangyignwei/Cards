@@ -75,4 +75,9 @@ public class TestController extends  BaseController {
    }
 
 
+    public Result testBug(){
+        System.out.println("feature添加新的分支只修改了一个bug");
+        return null;
+    }
+
 }
