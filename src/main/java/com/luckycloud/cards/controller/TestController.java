@@ -69,8 +69,8 @@ public class TestController extends  BaseController {
 
 
    public Result test(){
-
-        return null;
+       System.out.println("123123123");
+       return null;
    }
 
 
