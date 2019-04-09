@@ -68,5 +68,10 @@ public class TestController extends  BaseController {
    }
 
 
+   public Result test(){
+
+        return null;
+   }
+
 
 }
