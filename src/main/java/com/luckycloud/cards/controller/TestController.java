@@ -70,7 +70,8 @@ public class TestController extends  BaseController {
 
    public Result test(){
 
-        return null;
+       System.out.println("feature");
+       return null;
    }
 
 
